@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "periodo": "Agosto - Diciembre 2024",
+    "profesor": "Daniel",
+    "asignatura": "PROGRAMACION ORIENTADA A OBJETOS",
+    "detalleNota": [
+      {
+        "estudiante": "Alfredo",
+        "calificacion": "75"
+      },
+      {
+        "estudiante": "Efren",
+        "calificacion": "78"
+      }
+    ],
+    "fecha_creacion": "08/09/2024",
+    "active": true
+  }
+]

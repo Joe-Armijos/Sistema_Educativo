@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "nombre": "Francisco",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  },
+  {
+    "id": "2",
+    "nombre": "Jessenia",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  },
+  {
+    "id": "3",
+    "nombre": "Daniel",
+    "fecha_creacion": "2024-09-08",
+    "active": false
+  },
+  {
+    "id": "4",
+    "nombre": "Delia",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  },
+  {
+    "id": "5",
+    "nombre": "Jorge",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  },
+  {
+    "id": "6",
+    "nombre": "Rodrigo",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  }
+]

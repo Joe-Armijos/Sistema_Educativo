@@ -1,0 +1,65 @@
+[
+  {
+    "id": "2",
+    "descripcion": "PROGRAMACION ORIENTADA A OBJETOS",
+    "nivel": "Cuarto Semestre",
+    "profesor": "3",
+    "active": true
+  },
+  {
+    "id": "3",
+    "descripcion": "ESTRUCTURA DE DATOS",
+    "nivel": "Tercer Semestre",
+    "profesor": null,
+    "active": false
+  },
+  {
+    "id": "4",
+    "descripcion": "MODELAMIENTO DE SOFTWARE",
+    "nivel": "Tercer Semestre",
+    "profesor": null,
+    "active": true
+  },
+  {
+    "id": "6",
+    "descripcion": "ALGORITMO Y LOGICA DE PROGRAMACION",
+    "nivel": "Primer Semestre",
+    "profesor": "3",
+    "active": true
+  },
+  {
+    "id": "7",
+    "descripcion": "CALCULO",
+    "nivel": "Primer Semestre",
+    "profesor": null,
+    "active": true
+  },
+  {
+    "id": "8",
+    "descripcion": "FISICA",
+    "nivel": "Segundo Semestre",
+    "profesor": null,
+    "active": true
+  },
+  {
+    "id": "9",
+    "descripcion": "ALGEBRA LINEAL",
+    "nivel": "Segundo Semestre",
+    "profesor": null,
+    "active": true
+  },
+  {
+    "id": "10",
+    "descripcion": "PROBABILIDAD Y ESTADISTICA",
+    "nivel": "Cuarto Semestre",
+    "profesor": null,
+    "active": true
+  },
+  {
+    "id": "MATE",
+    "descripcion": "",
+    "nivel": "",
+    "profesor": null,
+    "active": false
+  }
+]

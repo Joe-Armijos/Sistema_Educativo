@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "periodo": "Abril - Agosto 2024",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  },
+  {
+    "id": "2",
+    "periodo": "Agosto - Diciembre 2024",
+    "fecha_creacion": "2024-09-08",
+    "active": true
+  }
+]

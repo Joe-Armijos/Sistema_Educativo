@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "nombre": "Jose",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "2",
+    "nombre": "Patsy",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "3",
+    "nombre": "Luanna",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": "CALCULO",
+    "active": true
+  },
+  {
+    "id": "4",
+    "nombre": "Josue",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "5",
+    "nombre": "Wilmer",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "6",
+    "nombre": "Jesus",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "7",
+    "nombre": "Luis",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "8",
+    "nombre": "Erica",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "9",
+    "nombre": "Mica",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": "MODELAMIENTO DE SOFTWARE",
+    "active": true
+  },
+  {
+    "id": "10",
+    "nombre": "Carlos",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "11",
+    "nombre": "Valentina",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "12",
+    "nombre": "Demian",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "13",
+    "nombre": "Rocio",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "14",
+    "nombre": "Jonathan",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "15",
+    "nombre": "Marcela",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "16",
+    "nombre": "Carla",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "17",
+    "nombre": "Jorge",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "18",
+    "nombre": "Leidy",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "19",
+    "nombre": "Andrea",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": null,
+    "active": true
+  },
+  {
+    "id": "20",
+    "nombre": "Angela",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": "BASE DE DATOS",
+    "active": true
+  },
+  {
+    "id": "21",
+    "nombre": "Alfredo",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": "PROGRAMACION ORIENTADA A OBJETOS",
+    "active": true
+  },
+  {
+    "id": "22",
+    "nombre": "Efren",
+    "fecha_creacion": "2024-09-08",
+    "asignatura": "PROGRAMACION ORIENTADA A OBJETOS",
+    "active": true
+  }
+]
